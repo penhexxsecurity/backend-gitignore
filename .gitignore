@@ -1,0 +1,17 @@
+# Environment
+backend/.env
+.env
+
+# Firebase Credentials
+backend/credentials/firebase.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.venv/
+
+# VS Code
+.vscode/

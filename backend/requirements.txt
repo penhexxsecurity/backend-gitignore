@@ -1,0 +1,9 @@
+Flask==3.0.3
+flask-cors==4.0.1
+python-dotenv==1.0.1
+
+# Firebase Admin SDK (Firestore + Auth + Admin access)
+firebase-admin==6.5.0
+
+# Optional but useful for production APIs
+gunicorn==22.0.0
